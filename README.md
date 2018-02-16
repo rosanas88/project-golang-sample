@@ -1,1 +1,1 @@
-# projectGo
+Samples with GoLang language
