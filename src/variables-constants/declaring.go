@@ -10,6 +10,9 @@ import (
 */
 func main() {
 	const PI float64 = 3.1415
+
+	fmt.Printf("PI is %.2f \n", PI)
+
 	var radius = 3.2 // type float is inserted by compiler
 
 	// reduced form to declare variable := Declare and initialize
